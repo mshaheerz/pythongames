@@ -1,5 +1,7 @@
 # pythongames
-imported frome 
+imported from freegame library ,
+not edited
+trying to changes..............
 
 
 
